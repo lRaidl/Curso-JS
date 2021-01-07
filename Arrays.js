@@ -17,3 +17,7 @@ console.log (frutas);
 var prioridad = frutas.unshift("uvas");
 
 console.log(frutas);
+
+var prioridad = frutas.shift("uvas");
+
+console.log(frutas);
